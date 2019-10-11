@@ -8,6 +8,9 @@ body {
   height: 90vh;
   text-align: center;
   font-family: 'Courier New', Courier, monospace;
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
 }
 
 svg {
